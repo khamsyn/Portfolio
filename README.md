@@ -1,2 +1,2 @@
 # Portfolio
-A Web based CV
+A webversion of Azubuike's portfolio
